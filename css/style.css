@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'bebasN';
+    src: url('../fonts/BebasNeue-webfont.eot');
+    src: url('../fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/BebasNeue-webfont.woff') format('woff'),
+         url('../fonts/BebasNeue-webfont.ttf') format('truetype'),
+         url('../fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica;
+	background: #406dff url(../img/pattern.png) no-repeat center top;
+
+}
+
+#content-wrapper {
+	width: 960px;
+	margin: 0 auto;
+	color: #ffffff;
+	height: 710px;
+	background: url(../img/giantArrow.png) left 35px scroll no-repeat;
+}
+
+h1 {
+	color: #406dff;
+	background-color: #ffffff;
+	font-size: 120px;
+	font-family: bebasN;
+	padding: 0 5px 0 20px;
+	margin: 440px 0 0 0;
+	height: 140px;
+	width: 545px;
+	float: right;
+}
+
+h2 {
+	float: right;
+	clear: right;
+}
+
+h2 span {
+  border-bottom: 3px dotted #ffffff;
+}
+
+footer {
+    border-top: 1px solid gray;
+	background-color: #ffffff;
+	height: 325px;
+	
+}
+
+footer p {
+	color: white;
+	background-color: #406dff;
+	margin: 0;
+	padding: 10px;
+}
+
+footer p:nth-of-type(2n) {
+	background-color: #6B8EFF;
+}

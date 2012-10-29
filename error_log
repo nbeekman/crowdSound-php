@@ -1,0 +1,20 @@
+[24-Oct-2012 20:09:35] PHP Fatal error:  Class 'RdioLink' not found in /home/lightpla/public_html/quickleft/index.php on line 4
+[24-Oct-2012 20:13:50] PHP Fatal error:  Call to a member function call() on a non-object in /home/lightpla/public_html/quickleft/RdioLink.php on line 25
+[24-Oct-2012 20:16:36] PHP Parse error:  syntax error, unexpected T_NEW in /home/lightpla/public_html/quickleft/RdioLink.php on line 15
+[24-Oct-2012 20:19:32] PHP Fatal error:  Call to undefined method RdioLink::init() in /home/lightpla/public_html/quickleft/index.php on line 5
+[24-Oct-2012 20:43:40] PHP Parse error:  syntax error, unexpected T_STRING in /home/lightpla/public_html/quickleft/RdioLink.php on line 5
+[24-Oct-2012 20:43:58] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/lightpla/public_html/quickleft/RdioLink.php on line 40
+[24-Oct-2012 20:58:06] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/lightpla/public_html/quickleft/RdioLink.php on line 31
+[24-Oct-2012 20:58:50] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lightpla/public_html/quickleft/index.php on line 36
+[24-Oct-2012 20:58:54] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lightpla/public_html/quickleft/index.php on line 36
+[24-Oct-2012 21:02:55] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/lightpla/public_html/quickleft/RdioLink.php on line 39
+[24-Oct-2012 21:03:15] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/lightpla/public_html/quickleft/RdioLink.php on line 39
+[24-Oct-2012 21:04:23] PHP Warning:  Wrong parameter count for fread() in /home/lightpla/public_html/quickleft/RdioLink.php on line 41
+[24-Oct-2012 21:04:50] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for Resource id #24 in /home/lightpla/public_html/quickleft/RdioLink.php on line 41
+[24-Oct-2012 21:04:50] PHP Warning:  fread() [<a href='function.fread'>function.fread</a>]: Length parameter must be greater than 0 in /home/lightpla/public_html/quickleft/RdioLink.php on line 41
+[24-Oct-2012 21:05:02] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for Resource id #24 in /home/lightpla/public_html/quickleft/RdioLink.php on line 41
+[24-Oct-2012 21:05:02] PHP Warning:  fread() [<a href='function.fread'>function.fread</a>]: Length parameter must be greater than 0 in /home/lightpla/public_html/quickleft/RdioLink.php on line 41
+[24-Oct-2012 21:16:11] PHP Fatal error:  Call to a member function call() on a non-object in /home/lightpla/public_html/quickleft/RdioLink.php on line 51
+[24-Oct-2012 21:37:40] PHP Parse error:  syntax error, unexpected '}' in /home/lightpla/public_html/quickleft/RdioLink.php on line 60
+[24-Oct-2012 21:43:36] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/lightpla/public_html/quickleft/index.php on line 53
+[24-Oct-2012 21:44:03] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lightpla/public_html/quickleft/RdioLink.php on line 31
